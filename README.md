@@ -30561,7 +30561,7 @@
 #Lucas Md
 
 <p align="center">
-  <a href=https://github.com/Emmanuelkibet350/Luke-md"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Lucas+MD+Whatsapp+Bot;Developed+by+Marisel;Give+star+and+forks+this+Repo+🌟" alt="EthixReadme"></a>
+  <a href=https://github.com/Emmanuelkibet350/Luke-md"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Lucas+MD+Whatsapp+Bot;Developed+by+Emmanuel;Give+star+and+forks+this+Repo+🌟" alt="EthixReadme"></a>
 </p>
 
 ## Getting Started
@@ -30601,9 +30601,9 @@ Deploying the bot to Heroku is simple and straightforward. Follow these steps:
 [![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/Emmanuelkibet350/Luke-md)
 
 ### Supporters I Love You
-[![Stargazers repo roster for @betingrich3/Mercedes](http://reporoster.com/stars/dark/betingrich3/Mercedes)](https://github.com/Emmanuelkibet350/Luke-md/stargazers)
+[![Stargazers repo roster for @Emmanuelkibet350/Luke-md](http://reporoster.com/stars/dark/betingrich3/Mercedes)](https://github.com/Emmanuelkibet350/Luke-md/stargazers)
      
-[![Forkers repo roster for @betingrich3/Mercedes](http://reporoster.com/forks/dark/betingrich3/Mercedes)](https://github.com/Emmanuelkibet350/Luke-md/network/members)
+[![Forkers repo roster for @Emmanuelkibet350/Luke-md](http://reporoster.com/forks/dark/betingrich3/Mercedes)](https://github.com/Emmanuelkibet350/Luke-md/network/members)
 
 Deploy to Termux
 
